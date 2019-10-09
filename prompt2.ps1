@@ -1,0 +1,1 @@
+﻿$us = Read-Host 'Enter Your User Name:' -AsSecureString

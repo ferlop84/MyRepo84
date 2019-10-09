@@ -1,0 +1,1 @@
+﻿ipconfig | Out-File -FilePath desktop\ip.txt
